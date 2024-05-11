@@ -1,1 +1,1 @@
-# MPI-alhoritmi-de-sortare
+# MPI-algoritmi-de-sortare
